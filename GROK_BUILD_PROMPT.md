@@ -23,7 +23,9 @@ Read first, in this order:
 
 ## Media that exists
 
-- `media/shake-to-report-2026-09-05.mp4` — 20.5s iPhone screen recording (5 Sep 2026)
+Pulled from https://grok.com/share/bGVnYWN5_03c6ea3d-739c-4065-933d-43c140e37e38 and committed to this repo.
+
+- `media/shake-to-report-2026-09-05.mp4` — 20.5s iPhone screen recording (5 Sep 2026). Chat filename: `ScreenRecording_09-05-2026 17-16-05_1.mp4`
 - `media/shake-frame-01.jpg` … `media/shake-frame-20.jpg` — 1 fps stills from that recording
 
 Key stills:

@@ -8,6 +8,8 @@ Grok / X UX observations collected with Grok between **19 Jul 2026** and **5 Sep
 
 - Author: stp (`@stppstp` on X, GitHub `STP-KAS`)
 - Packaged: 14 Sep 2026
+- Media pulled from the source share and committed: 14 Sep 2026
+- Source chat: https://grok.com/share/bGVnYWN5_03c6ea3d-739c-4065-933d-43c140e37e38
 - Tone requested by author: honest, not self-important
 - Grok Build: paste [`GROK_BUILD_PROMPT.md`](GROK_BUILD_PROMPT.md). Chat memory for Build: [`CHAT_CONTEXT.md`](CHAT_CONTEXT.md)
 
@@ -17,8 +19,8 @@ Grok / X UX observations collected with Grok between **19 Jul 2026** and **5 Sep
 
 - Observations only.
 - If something is already fixed, good.
-- Evidence that still exists in this folder is under [Media](#media).
-- July 2026 pinned-chat / sync screenshots were referenced in chat but were **not attached again** in the later thread. Only the **5 Sep 2026 Shake-to-Report** recording is on disk here.
+- Evidence that still exists in this folder is under [media/](media/).
+- July 2026 pinned-chat / sync screenshots were referenced in chat but were **not attached again** in the later thread. The only user upload in the source share is the **5 Sep 2026 Shake-to-Report** recording.
 
 ---
 
@@ -134,6 +136,8 @@ Noticed earlier. Later really appreciated it.
 
 **Evidence in this folder**
 
+Original chat filename: `ScreenRecording_09-05-2026 17-16-05_1.mp4` (same file).
+
 | File | What it shows |
 | --- | --- |
 | [media/shake-to-report-2026-09-05.mp4](media/shake-to-report-2026-09-05.mp4) | 20.5s iPhone recording: chat → Report a Problem sheet after movement, repeatedly |
@@ -169,6 +173,6 @@ Drop them in `media/` if they still exist on the phone, then commit.
 
 Public repo: https://github.com/STP-KAS/feedback-stp-delusional
 
-Text is in the repo. The Shake-to-Report **video is 16MB**. If `media/` is missing on GitHub, upload it from the local pack.
+Text and `media/` are in the repo. The Shake-to-Report video is 16.5 MB (20.5s). Pulled from the source share on 14 Sep 2026.
 
 July 2026 pinned-chat / sync recordings were never re-attached. Do not fake them.

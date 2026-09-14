@@ -74,7 +74,11 @@ Final wording he approved:
 - Off switch was already there.
 - Still: movement should not open a report sheet.
 
-Evidence in `media/`.
+Evidence in `media/` (committed 14 Sep 2026 from the public share). Original filename in chat: `ScreenRecording_09-05-2026 17-16-05_1.mp4`. Same bytes as `media/shake-to-report-2026-09-05.mp4`.
+
+Share used to recover the file: https://grok.com/share/bGVnYWN5_03c6ea3d-739c-4065-933d-43c140e37e38
+
+That share contains **one** user upload. July pinned-chat / sync files were described, not re-attached.
 
 ### 14 Sep 2026 — this pack
 
