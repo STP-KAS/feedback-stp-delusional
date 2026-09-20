@@ -180,3 +180,12 @@ Public repo: https://github.com/STP-KAS/feedback-stp-delusional
 Text and `media/` are in the repo. The Shake-to-Report video is 16.5 MB (20.5s). Pulled from the source share on 14 Sep 2026.
 
 July 2026 pinned-chat / sync recordings were never re-attached. Do not fake them.
+
+---
+
+> **Standard disclaimer.** This GitHub, not the topic above.
+>
+> Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+>
+> Intern at https://sixpack.wtf/  
+> X: https://x.com/StppStp · GitHub: https://github.com/STP-KAS
