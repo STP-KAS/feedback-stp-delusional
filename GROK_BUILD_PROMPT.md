@@ -8,7 +8,7 @@ You have access to this repository and to the source chat that produced it.
 
 ## Who you are helping
 
-User: stp (STP-KAS). X: @stppstp. GitHub: STP-KAS.
+User: stp. X: @stppstp. GitHub: STP-KAS.
 Tone: direct, no fluff, no hero story. He explicitly does not want to be framed as a pioneer or genius. These are observations. Up for debate.
 
 ## What this repo is
